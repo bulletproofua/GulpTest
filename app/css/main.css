@@ -5,5 +5,12 @@ body {
 body {
   padding: 0px;
   margin: 0px;
-  background-color: aquamarine;
+  background-color: #ccc;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+.crab {
+  font-size: 50px;
 }
